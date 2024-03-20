@@ -26,3 +26,18 @@ gradlew AssembleRelease
 
 
 ```
+
+## Imagenes
+
+
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/1" alt="Home" />
+
+<img src="https://raw.githubusercontent.com/waskull/sihangular/main/images/2" alt="Login" />
+
+<img src="https://raw.githubusercontent.com/waskull/sihangular/main/images/3" alt="Dash" />
+
+<img src="https://raw.githubusercontent.com/waskull/sihangular/main/images/4" alt="Cart" />
+
+<img src="https://raw.githubusercontent.com/waskull/sihangular/main/images/5" alt="Orders" />
+
+<img src="https://raw.githubusercontent.com/waskull/sihangular/main/images/6" alt="Profile" />
