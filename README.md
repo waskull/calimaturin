@@ -37,6 +37,6 @@ gradlew AssembleRelease
 
 <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/4.png" width='400' alt="Cart" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.png" width='400' alt="Orders" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.jpg" width='400' alt="Orders" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.jpg" width='400' alt="Profile" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.png" width='400' alt="Profile" />
