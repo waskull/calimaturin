@@ -31,12 +31,12 @@ gradlew AssembleRelease
 
 <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/1.jpg" alt="Home" width='400' />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/2.jpg" alt="Login" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/2.jpg" width='400' alt="Login" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/3.jpg" alt="Dash" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/3.jpg" width='400' alt="Dash" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/4.png" alt="Cart" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/4.png" width='400' alt="Cart" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.png" alt="Orders" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.png" width='400' alt="Orders" />
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.jpg" alt="Profile" />
+<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.jpg" width='400' alt="Profile" />
