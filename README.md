@@ -40,3 +40,13 @@ gradlew AssembleRelease
 <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.jpg" width='400' alt="Orders" />
 
 <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.png" width='400' alt="Profile" />
+
+
+<div align="center">
+  <a href="https://github.com/waskull">
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/1.jpg" alt="Home" width="412px" />
+  </a>
+  <a href="https://github.com/waskull">
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/2.jpg" width="412px" alt="Login" />
+  </a>
+</div>
