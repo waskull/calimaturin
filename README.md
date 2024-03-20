@@ -29,24 +29,29 @@ gradlew AssembleRelease
 
 ## Imagenes
 
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/1.jpg" alt="Home" width='400' />
-
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/2.jpg" width='400' alt="Login" />
-
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/3.jpg" width='400' alt="Dash" />
-
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/4.png" width='400' alt="Cart" />
-
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.jpg" width='400' alt="Orders" />
-
-<img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.png" width='400' alt="Profile" />
-
-
 <div align="center">
-  <a href="https://github.com/waskull">
+  <a>
     <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/1.jpg" alt="Home" width="412px" />
   </a>
-  <a href="https://github.com/waskull">
+  <a>
     <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/2.jpg" width="412px" alt="Login" />
+  </a>
+</div>
+
+<div align="center">
+  <a>
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/3.jpg" alt="Dash" width="412px" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/4.png" width="412px" alt="Cart" />
+  </a>
+</div>
+
+<div align="center">
+  <a>
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/5.jpg" alt="Orders" width="412px" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/waskull/calimaturin/main/images/6.png" width="412px" alt="Profile" />
   </a>
 </div>
